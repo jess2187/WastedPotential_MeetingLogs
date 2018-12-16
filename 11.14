@@ -1,0 +1,58 @@
+Date Meeting
+Stuff to be done
+
+Joe
+What was done this week?
+I wrote a basic priority sorting algorithm in python (simply because I’m more familiar with it)
+This gave me a basic framework for how the algorithm in node.js should work.
+The python function took a list of lists that represented assignments and their due dates and number of hours it would take to complete them. It then gave them a priority and sorted the list based on this priority.
+What did you have problems with? How will we address these problems?
+I anticipate having a hard time learning how to implement this in node.js
+Handling date objects is always hard, so I had to learn the syntax for parsing those.
+What will be done by next week?
+Next week I will begin implementing this algorithm in node.js
+
+
+Austin
+What was done this week?
+
+
+What did you have problems with? How will we address these problems?
+
+
+What will be done by next week?
+
+
+Jessica
+What was done this week?
+
+What did you have problems with? How will we address these problems?
+
+What will be done by next week?
+
+
+Obaid
+What was done this week?
+
+
+What did you have problems with? How will we address these problems?
+
+
+What will be done by next week?
+
+
+Arman
+What was done this week?
+Got sessions and users working, added basic events and assignments
+What did you have problems with? How will we address these problems?
+Figuring out exactly what properties we need where. We can change these on the fly easily
+What will be done by next week?
+Make endpoints for events and assignments 
+Sky
+What was done this week?
+Got the tables working for the HTML website to display events/assignments
+Formatting tables to make more sense on website
+What did you have problems with? How will we address these problems?
+Learning AJAX code and starting to work with Mongo is confusing. But still learning!
+What will be done by next week?
+-start figuring out how to connect to DB to add/display
