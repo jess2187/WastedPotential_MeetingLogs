@@ -1,0 +1,59 @@
+Date Meeting
+Stuff to be done:
+Get adding assignments to work so that they can be displayed on the website
+
+Joe
+What was done this week?
+Started actually coding the determineOptimalTimes function in index.js. 
+This required me to get familiar with node.js and figure out how to access stuff from the database.
+What did you have problems with? How will we address these problems?
+Still a bit confused about how I will be assigning work times to the actual objects in the database.
+I need to figure out and become more familiar with how node.js handles our db schema.
+I also don’t exactly know how to break an assignment’s work time over multiple days.
+What will be done by next week?
+I will continue to work on and hopefully finish the algorithm code to determine optimal times.
+
+
+Austin
+What was done this week?
+
+
+What did you have problems with? How will we address these problems?
+
+
+What will be done by next week?
+
+
+Jessica
+What was done this week?
+Changed the html and added some javascript so that adding assignments
+What did you have problems with? How will we address these problems?
+
+What will be done by next week?
+
+
+Obaid
+What was done this week?
+
+
+What did you have problems with? How will we address these problems?
+
+
+What will be done by next week?
+
+
+Arman
+What was done this week?
+Connecting adding event and assignments forms
+Making getter setter and edit functions for all my collections
+What did you have problems with? How will we address these problems?
+Had to change them all to callbacks because of async
+What will be done by next week?
+Make actual endpoints call these functions instead of return dummy data
+Sky
+What was done this week?
+Worked with Joe to start on algorithm, and re formatted web page
+What did you have problems with? How will we address these problems?
+Only problems are not having mongo on my computer. Going to work with arman to fix that
+What will be done by next week?
+Get everything displaying in lists and getting the calendar functional and displaying
