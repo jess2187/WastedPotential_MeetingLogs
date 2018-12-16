@@ -1,0 +1,69 @@
+November 7 Meeting
+What we need to before break:
+
+Checkpoints:
+Calendar event connection:
+Have an event database and display it to a calendar in HTML
+Have a form to add an event
+Have a form to edit events
+Connect to event form to database
+Connect to edit event form to database
+
+Next…
+Calendar assignment connection:
+Have a form to add an assignment
+Have a form to edit an assignment
+Create algorithm to modularizing assignment
+Connect forms to database
+
+Joe
+What was done this week?
+Learning node.js
+What did you have problems with? How will we address these problems?
+The topic was complicated at first
+What will be done by next week?
+Get a better understanding of our database construction
+
+Austin
+What was done this week?
+
+
+What did you have problems with? How will we address these problems?
+
+
+What will be done by next week?
+
+
+Jessica
+What was done this week?
+Got the html template working
+What did you have problems with? How will we address these problems?
+Figuring out what everything in the files does
+What will be done by next week?
+Change the template for what we need
+
+Obaid
+What was done this week?
+
+
+What did you have problems with? How will we address these problems?
+
+
+What will be done by next week?
+
+
+Arman
+What was done this week?
+Having login, register, and logout forms work
+What did you have problems with? How will we address these problems?
+Template had weird forms to begin with, I had to change them
+What will be done by next week?
+Have sessions and users logic in db
+
+Sky
+What was done this week?
+Helped with the html template, reformatted page for our purposes, got monthly/weekly calendar view
+What did you have problems with? How will we address these problems?
+Hard to understand what everything was doing at first from the template
+What will be done by next week?
+	-finished functional website, not yet integrated with DB
